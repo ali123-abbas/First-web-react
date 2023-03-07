@@ -1,0 +1,19 @@
+.swiper-button-next{
+    background-color: white;
+    border-radius: 60%;
+    height: 50px;
+    width: 50px;
+    
+}
+.swiper-button-prev:after, .swiper-button-next:after{   
+    font-size: 20px;
+}
+.swiper-button-prev{
+    height: 50px;
+    background-color: white;
+    border-radius: 60%;
+    width: 50px;
+}
+.swiper-slide {
+    text-align: center;
+}
